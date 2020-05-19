@@ -4,7 +4,7 @@ def merge(arrA, arrB):
     merged_arr = [0] * elements
 
     # Your code here
-
+    
 
     return merged_arr
 
